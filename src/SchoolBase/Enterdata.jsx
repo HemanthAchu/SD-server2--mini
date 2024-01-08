@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom'
-import { RemoveAStudentAPI, getALLStudentAPI } from '../Services/allApi'
+import { RemoveAStudentAPI, getALLStudentAPI } from '../Services/allAPI.jsx'
 
 
 

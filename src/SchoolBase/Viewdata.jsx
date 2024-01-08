@@ -5,8 +5,8 @@ import {Modal,Button} from "react-bootstrap"
 import Col from 'react-bootstrap/Col';
 import Form from 'react-bootstrap/Form';
 import Row from 'react-bootstrap/Row';
-import { uploadNewStudentAPI } from '../Services/allApi';
-import Enterdata from './Enterdata';
+import { uploadNewStudentAPI } from '../Services/allAPI.jsx';
+
 const Viewdata = () => {
  
 
