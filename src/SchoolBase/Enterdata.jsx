@@ -59,7 +59,7 @@ console.log(result.data);
       // Force a re-render by updating the key
       setKey((prevKey) => prevKey + 1);
     } catch (error) {
-      console.error('Error removing student:', error);
+     
     }
   };
  
